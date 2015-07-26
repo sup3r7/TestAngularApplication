@@ -1,0 +1,25 @@
+{
+  "name": "TestAngularFolder",
+  "version": "0.0.0",
+  "authors": [
+    "Fabio <fubu_wu@hotmail.com>"
+  ],
+  "description": "this is an angular app",
+  "main": "app.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "angular",
+    "typescript",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
